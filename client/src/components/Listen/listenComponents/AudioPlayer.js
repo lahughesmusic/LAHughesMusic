@@ -10,7 +10,7 @@ class AudioPlayer extends Component {
   }
   render() {
     return (
-      <audio controls='controls' ref="audio">
+      <audio ref="audio">
         <source src={this.props.audiopath} type="audio/ogg" />
         <source src={this.props.audiopath} type="audio/mpeg" />
       </audio>
