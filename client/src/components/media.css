@@ -1,0 +1,38 @@
+@media only screen and (max-width : 700px) {
+    img.resize { 
+        
+     height: 120px!important;
+     
+     
+        
+        
+    }
+    img.fiftyfifty {
+        width: 50%
+    }
+
+    img.fifteen {
+        width: 20%
+    }
+
+    img.fifty {
+        width: 50%
+    }
+
+    img.twentyFive {
+        width: 25%
+    }
+
+    img.seventy {
+        width: 80%
+    }
+
+    .nav-link {
+        font-size: 20px!important; 
+    }
+
+    h1.fontSize {
+        text-align: left!important;
+    }
+}
+
