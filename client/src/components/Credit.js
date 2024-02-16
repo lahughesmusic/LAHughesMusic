@@ -203,6 +203,13 @@ export default class Credit extends Component {
           <h2 className="role">(Additional Music)</h2>
           <br></br>
           <br></br>
+          <h1 className="fontFamily">
+            My Best Friends Secret Life (Also Known as "Friends in Deadly Places")
+          </h1>
+          <h2 className="role">2019</h2>
+          <h2 className="role">(Additional Music)</h2>
+          <br></br>
+          <br></br>
 
           <h1 className="fontFamily">All Summer in a Day</h1>
           <h2 className="role">2014</h2>
